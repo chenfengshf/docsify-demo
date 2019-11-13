@@ -9,3 +9,8 @@ a static blog via docsify
 
 ## end 
 when pushed, the github pages can automaticly update
+
+## 自动更新
+
+如果出现这句话，证明可以自动更新文档， 反之则不。
+反正gitee不能。
