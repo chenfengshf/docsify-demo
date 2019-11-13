@@ -10,6 +10,10 @@ a static blog via docsify
 ## end 
 when pushed, the github pages can automaticly update
 
+## site
+1. https://chenfengshf.github.io/docsify-demo/#/
+2. https://docsify.js.org/#/themes
+
 ## 自动更新
 
 如果出现这句话，证明可以自动更新文档， 反之则不。
