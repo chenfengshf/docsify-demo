@@ -1,20 +1,10 @@
-# docsify-demo
-a static blog via docsify
+# 津云新闻网数据采集
+框架: scrapy
 
-## 安装
-1. npm i -g docsify-cli
-2. docsify init docs
-3. vim your md file
-4. push to github
+## 1. scrapy命令行新建工程
 
-## end 
-when pushed, the github pages can automaticly update
+## 2. 配置爬虫选项
 
-## site
-1. https://chenfengshf.github.io/docsify-demo/#/
-2. https://docsify.js.org/#/themes
+## 3. 编写爬虫逻辑
 
-## 自动更新
-
-如果出现这句话，证明可以自动更新文档， 反之则不。
-反正gitee不能。
+## 4. 写入mongo数据库
