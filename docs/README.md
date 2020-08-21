@@ -3,7 +3,7 @@ https://vkceyugu.cdn.bspapp.com/VKCEYUGU-txserve/2fc6cb40-cbc3-11ea-9dfb-6da8e30
 
 
 # 津云新闻网数据采集
-框架: scrapy
+`框架: scrapy`
 
 ## 1. scrapy命令行新建工程
 
